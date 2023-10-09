@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'KaytekHeadline';
+  src: url('../public/fonts/KaytekHeadline-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('../public/fonts/AvenirNextLTPro-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirNext';
+  src: url('../public/fonts/AvenirNextLTPro-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: bold;
+}
